@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on AR project<br>👯 I’m looking to collaborate on python and web development projects<br>🌱 I’m currently learning AR development and Unity 3D<br>💬 Ask me about Python  and Web development<br>⚡ Fun fact - code never lies, it surprises
+🔭 I’m currently working on Machine Learning Project.<br>👯 I’m looking to collaborate on python, web development and AI projects.<br>🌱 I’m currently learning machine learning.<br>💬 Ask me about Python  and Web development<br>⚡ Fun fact - code never lies, it surprises
 
 
 # 💻 Tech Stack:
